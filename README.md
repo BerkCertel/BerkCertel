@@ -78,7 +78,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/BerkCertel/BerkCertel/output/snake.svg" alt="Snake animation" />
-
-###
