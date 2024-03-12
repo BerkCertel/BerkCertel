@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">dsfsdf</p>
+<p align="left">I am Mehmet Berk Certel, currently residing in Antalya, and I was born in Antalya in 1999. I previously graduated from Akdeniz University as a paramedic between 2018 and 2020, and I worked in the private sector for about 2 years. Taking my first step towards the field of software development, which I have always dreamed of and envisioned, I started studying at Antalya Bilim University in 2022. My only experience in this field so far is an internship at a company within Antalya Technopolis. During my internship, I focused on the backend department. As of the beginning of the summer of 2024, I am working towards completing my degree in the field and simultaneously learning and enhancing my skills in this new sector. I am engaged in the process of familiarizing myself with and improving in this field as I aim to graduate in 2024.</p>
 
 ###
 
@@ -57,15 +57,19 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BerkCertel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BerkCertel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<h2 align="left">Profile Views</h2>
 
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/BerkCertel/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BerkCertel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BerkCertel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
