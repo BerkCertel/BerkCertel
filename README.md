@@ -88,6 +88,4 @@ Check out my projects by exploring my profile!</p>
 
 ###
 
-<img src="https://raw.githubusercontent.com/BerkCertel/BerkCertel/output/snake.svg" alt="Snake animation" />
 
-###
