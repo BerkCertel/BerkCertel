@@ -38,7 +38,7 @@ Check out my projects by exploring my profile!</p>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
@@ -83,6 +83,12 @@ Check out my projects by exploring my profile!</p>
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/BerkCertel/BerkCertel/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/BerkCertel/count.svg?"  />
