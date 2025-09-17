@@ -1,95 +1,91 @@
-<h1 align="left">Welcome</h1>
+<!-- Profilinize uygun, modern ve şık bir GitHub README örneği -->
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F70C6&center=true&vCenter=true&multiline=true&width=435&lines=Merhaba%2C+ben+Berk+Certel!;Frontend+ve+Backend+Geliştiricisiyim+%F0%9F%91%BB" alt="Typing SVG" />
+</p>
 
-<p align="left">My name is Berk Certel and I'm a Software developer from Turkey</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/PrimeReact-0C7AE6?style=for-the-badge&logo=primereact&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle-2C2C34?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/NeonDB-121212?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 👋 Hakkımda
 
-###
+Merhaba! Ben Berk Certel, full-stack web ve mobil geliştiricisiyim. Modern teknolojilerle kullanıcı odaklı, ölçeklenebilir ve performanslı projeler geliştirmeyi seviyorum.
 
-<p align="left">👋 Hello!
-I’m Berk, a passionate developer working in the world of web development and software. I specialize in building modern and dynamic web applications using the MERN stack (MongoDB, Express, React, Node.js) and JavaScript technologies. My focus is on creating both user-friendly and performance-oriented projects. Alongside coding, I place great emphasis on learning new technologies and constantly improving myself.
+---
 
-Check out my projects by exploring my profile!</p>
+## 🚀 Kullandığım ve Bildiğim Teknolojiler
 
-###
+### Frontend
 
-<h2 align="left">I code with</h2>
+- **HTML5 & CSS3 & SCSS**
+- **JavaScript (ES6+) & TypeScript**
+- **React.js & Next.js**
+- **TailwindCSS**
+- **UI Kütüphaneleri:** 
+  - Material UI
+  - PrimeReact
+  - (ve diğerleri)
 
-###
+### Backend
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
+- **Node.js**
+- **Express.js**
 
+### Veritabanı
 
-</div>
+- **NeonDB (PostgreSQL)**
+- **MongoDB**
 
-###
+### Mobil
 
-<h2 align="left">Socials</h2>
+- **React Native**
 
-###
+### Diğer & Araçlar
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mehmet-berk-certel-38223b254/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/lberkcertel?igsh=dm0yYTFiOHBnd2Jk" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/23594872/berk-certel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
-</div>
+- **npm**
+- **Drizzle ORM**
+- **Mongoose**
 
-###
+---
 
-<h2 align="left">Profile Views</h2>
+## 📈 GitHub İstatistiklerim
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BerkCertel&show_icons=true&theme=tokyonight" alt="BerkCertel'ın GitHub İstatistikleri" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BerkCertel&theme=tokyonight" alt="BerkCertel'ın GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BerkCertel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BerkCertel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 💬 Benimle İletişime Geç
 
+- [LinkedIn](https://linkedin.com/in/berkcertel)
+- [E-posta](mailto:berk.certel@gmail.com)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/BerkCertel/count.svg?"  />
-</div>
+---
 
-###
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BerkCertel&color=blue" alt="profile views" />
+</p>
