@@ -48,9 +48,19 @@ Check out my projects by exploring my profile!</p>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <!-- Neon (NeonDB) için SVG -->
+  <img src="https://avatars.githubusercontent.com/u/103739445?s=200&v=4" height="40" alt="neondb logo" />
+  <img width="12" />
+  <!-- Drizzle ORM için SVG -->
+  <img src="https://raw.githubusercontent.com/drizzle-team/drizzle-orm/main/assets/logo.svg" height="40" alt="drizzle logo" />
+  <img width="12" />
+  <!-- BetterAuth (örneği yoksa açıklama verilebilir) -->
+  <img src="https://skillicons.dev/icons?i=auth" height="40" alt="auth logo" />
+  <img width="12" />
 </div>
 
 ###
