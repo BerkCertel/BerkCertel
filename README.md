@@ -15,10 +15,11 @@
 
 ###
 
-<p align="left">👋 Hello!
-I’m Berk, a passionate developer working in the world of web development and software. I specialize in building modern and dynamic web applications using the MERN stack (MongoDB, Express, React, Node.js) and JavaScript technologies. My focus is on creating both user-friendly and performance-oriented projects. Alongside coding, I place great emphasis on learning new technologies and constantly improving myself.
+<p align="left">👋 Hello!  
+I’m Berk, a passionate developer focused on building modern web and mobile applications. I work with the MERN stack (MongoDB, Express, React, Node.js), Next.js, React Native, TypeScript, Drizzle ORM, Better Auth, and many other technologies in the JavaScript ecosystem. I also create user-friendly interfaces using UI libraries such as shadcn/ui and PrimeReact. My goal is to keep learning new technologies, improve my skills, and deliver high-performance projects.  
 
-Check out my projects by exploring my profile!</p>
+Check out my profile to explore my projects!</p>
+
 
 ###
 
