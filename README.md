@@ -8,7 +8,6 @@
 [![Portfolio](https://img.shields.io/badge/🌐%20berkcertel.com-000000?style=for-the-badge)](https://berkcertel.com/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:m.berkcertel@outlook.com)
 
-![Profile Views](https://profile-counter.glitch.me/BerkCertel/count.svg)
 
 </div>
 
