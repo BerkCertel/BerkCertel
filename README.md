@@ -26,7 +26,6 @@ const berk = {
   databases: ["MongoDB", "PostgreSQL", "MySQL"],
   orm      : ["Drizzle ORM", "Prisma"],
   auth     : ["Better Auth", "Clerk", "JWT"],
-  education: "Computer Programming @ Antalya Bilim University (2022–2024)",
 };
 ```
 
@@ -34,6 +33,29 @@ I'm a passionate developer focused on building modern **web** and **mobile** app
 I provide **end-to-end solutions** — from planning & design to deployment & maintenance.
 I specialize in the **MERN stack**, **Next.js**, **TypeScript**, **Node.js**, **Express.js**, **PostgreSQL**, **Drizzle ORM**, **Prisma**, and **Better Auth**.
 I craft user-friendly interfaces using **shadcn/ui**, **Tailwind CSS**, and **PrimeReact**.
+
+---
+
+## 🏢 My Startup
+
+<div align="center">
+
+### ☀️ [Sunflow](https://sunflowapp.com/tr)
+
+**Smart order & analytics platform for hotels**
+
+> *"Hotels don't just take orders — they start to understand their guests."*
+
+| | |
+|---|---|
+| 🏨 **Sector** | Hospitality Technology |
+| 🤖 **Core Features** | QR Order System · AI Analytics · Hotel Dashboard · PMS Integration |
+| 🏨 **Active Hotels** | 4 Hotels |
+| ⚡ **Infrastructure** | Real-time · 7/24 · Scalable |
+
+[![Sunflow](https://img.shields.io/badge/☀️%20sunflowapp.com-FF6B35?style=for-the-badge)](https://sunflowapp.com/tr)
+
+</div>
 
 ---
 
@@ -77,6 +99,7 @@ I craft user-friendly interfaces using **shadcn/ui**, **Tailwind CSS**, and **Pr
 
 | 🚀 Project | 🛠️ Stack | 🔗 |
 |---|---|---|
+| ☀️ **Sunflow** — Hotel Order & Analytics Platform | Next.js · TypeScript · AI · PostgreSQL | [Visit](https://sunflowapp.com/tr) |
 | 🦷 **Dental Clinic AI Management System** | Next.js · TypeScript · AI · PostgreSQL | [View](https://berkcertel.com/projects) |
 | 🛒 **Next.js E-Commerce** | Next.js · TypeScript · Iyzico Payment | [View](https://github.com/BerkCertel/nextjs-ecommerce) |
 | 👗 **Fashionflow** | React · Redux Toolkit · MongoDB · Firebase | [View](https://github.com/BerkCertel/Fashionflow) |
@@ -89,14 +112,6 @@ I craft user-friendly interfaces using **shadcn/ui**, **Tailwind CSS**, and **Pr
 | ☀️ **Sunflow Catalog** | Next.js · TypeScript | [View](https://github.com/BerkCertel/sunflow-catalog) |
 | 📖 **Blog App** | React · Node.js · Express · MongoDB | [View](https://github.com/BerkCertel/Yamac-Blog-App) |
 | 🔌 **WebSocket App** | Node.js · WebSocket · JavaScript | [View](https://github.com/BerkCertel/web-socket) |
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BerkCertel&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" alt="trophies" />
-</div>
 
 ---
 
