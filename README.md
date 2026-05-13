@@ -103,15 +103,15 @@ I craft user-friendly interfaces using **shadcn/ui**, **Tailwind CSS**, and **Pr
 | 🚀 Project | 🛠️ Stack | 🔗 |
 |---|---|---|
 | ☀️ **Sunflow — Hotel Order & Analytics Platform** | Next.js · TypeScript · AI · PostgreSQL | [Visit](https://sunflowapp.com/tr) |
-| 💸 **Expense Tracker** | React · Node.js · Express · MongoDB | [View](https://github.com/BerkCertel/expense-tracker) |
+| 💸 **Expense Tracker** | React · Node.js · Express · MongoDB | [GitHub](https://github.com/BerkCertel/expense-tracker) |
 | 📱 **Spotlight App (Social Mobile App)** | React Native · Expo · Convex | [GitHub](https://github.com/BerkCertel/spotlight-app-react-native-expo) |
-| 📝 **Note App** | Next.js · TypeScript · Better Auth · Drizzle | [View](https://github.com/BerkCertel/note-app) |
-| 🌐 **Portfolio** | Next.js · TypeScript · shadcn/ui | [View](https://github.com/BerkCertel/portfolyo) |
-| 🔐 **Better Auth + Drizzle** | Next.js · TypeScript · Drizzle ORM | [View](https://github.com/BerkCertel/better-auth-drizzle) |
-| 🔐 **Better Auth + Organizations** | Next.js · TypeScript · Drizzle ORM | [View](https://github.com/BerkCertel/better-auth-organizations-drizzle) |
-| 🐳 **Docker + Prisma + Better Auth** | Docker · Node.js · Next.js · TypeScript | [View](https://github.com/BerkCertel/docker-prismav7-nodejs-typescript-nextjs-betterauth) |
-| 📖 **Blog App** | React · Node.js · Express · MongoDB | [View](https://github.com/BerkCertel/Yamac-Blog-App) |
-| 🔌 **WebSocket App** | Node.js · WebSocket · JavaScript | [View](https://github.com/BerkCertel/web-socket) |
+| 📝 **Note App** | Next.js · TypeScript · Better Auth · Drizzle | [GitHub](https://github.com/BerkCertel/note-app) |
+| 🌐 **Portfolio** | Next.js · TypeScript · shadcn/ui | [GitHub](https://github.com/BerkCertel/portfolyo) |
+| 🔐 **Better Auth + Drizzle** | Next.js · TypeScript · Drizzle ORM | [GitHub](https://github.com/BerkCertel/better-auth-drizzle) |
+| 🔐 **Better Auth + Organizations** | Next.js · TypeScript · Drizzle ORM | [GitHub](https://github.com/BerkCertel/better-auth-organizations-drizzle) |
+| 🐳 **Docker + Prisma + Better Auth** | Docker · Node.js · Next.js · TypeScript | [GitHub](https://github.com/BerkCertel/docker-prismav7-nodejs-typescript-nextjs-betterauth) |
+| 📖 **Blog App** | React · Node.js · Express · MongoDB | [GitHub](https://github.com/BerkCertel/Yamac-Blog-App) |
+| 🔌 **WebSocket App** | Node.js · WebSocket · JavaScript | [GitHub](https://github.com/BerkCertel/web-socket) |
 
 ---
 
