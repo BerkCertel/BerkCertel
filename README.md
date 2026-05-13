@@ -103,7 +103,6 @@ I craft user-friendly interfaces using **shadcn/ui**, **Tailwind CSS**, and **Pr
 | 🚀 Project | 🛠️ Stack | 🔗 |
 |---|---|---|
 | ☀️ **Sunflow** — Hotel Order & Analytics Platform | Next.js · TypeScript · AI · PostgreSQL | [Visit](https://sunflowapp.com/tr) |
-
 | 💸 **Expense Tracker** | React · Node.js · Express · MongoDB | [View](https://github.com/BerkCertel/expense-tracker) |
 | 📱 **Spotlight App** | Social mobile app | React Native · Expo · Convex | [GitHub](https://github.com/BerkCertel/spotlight-app-react-native-expo) |
 | 📝 **Note App** | Next.js · TypeScript · Better Auth · Drizzle | [View](https://github.com/BerkCertel/note-app) |
