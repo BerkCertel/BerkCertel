@@ -75,6 +75,7 @@ I craft user-friendly interfaces using **shadcn/ui**, **Tailwind CSS**, and **Pr
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🗄️ Database & ORM
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -99,17 +100,13 @@ I craft user-friendly interfaces using **shadcn/ui**, **Tailwind CSS**, and **Pr
 | 🚀 Project | 🛠️ Stack | 🔗 |
 |---|---|---|
 | ☀️ **Sunflow** — Hotel Order & Analytics Platform | Next.js · TypeScript · AI · PostgreSQL | [Visit](https://sunflowapp.com/tr) |
-| 🦷 **Dental Clinic AI Management System** | Next.js · TypeScript · AI · PostgreSQL | [View](https://berkcertel.com/projects) |
-| 🛒 **Next.js E-Commerce** | Next.js · TypeScript · Iyzico Payment | [View](https://github.com/BerkCertel/nextjs-ecommerce) |
-| 👗 **Fashionflow** | React · Redux Toolkit · MongoDB · Firebase | [View](https://github.com/BerkCertel/Fashionflow) |
 | 💸 **Expense Tracker** | React · Node.js · Express · MongoDB | [View](https://github.com/BerkCertel/expense-tracker) |
 | 📝 **Note App** | Next.js · TypeScript · Better Auth · Drizzle | [View](https://github.com/BerkCertel/note-app) |
+| 📖 **Blog App** | React · Node.js · Express · MongoDB | [View](https://github.com/BerkCertel/Yamac-Blog-App) |
 | 🌐 **Portfolio** | Next.js · TypeScript · shadcn/ui | [View](https://github.com/BerkCertel/portfolyo) |
 | 🔐 **Better Auth + Drizzle** | Next.js · TypeScript · Drizzle ORM | [View](https://github.com/BerkCertel/better-auth-drizzle) |
 | 🔐 **Better Auth + Organizations** | Next.js · TypeScript · Drizzle ORM | [View](https://github.com/BerkCertel/better-auth-organizations-drizzle) |
 | 🐳 **Docker + Prisma + Better Auth** | Docker · Node.js · Next.js · TypeScript | [View](https://github.com/BerkCertel/docker-prismav7-nodejs-typescript-nextjs-betterauth) |
-| ☀️ **Sunflow Catalog** | Next.js · TypeScript | [View](https://github.com/BerkCertel/sunflow-catalog) |
-| 📖 **Blog App** | React · Node.js · Express · MongoDB | [View](https://github.com/BerkCertel/Yamac-Blog-App) |
 | 🔌 **WebSocket App** | Node.js · WebSocket · JavaScript | [View](https://github.com/BerkCertel/web-socket) |
 
 ---
@@ -126,6 +123,12 @@ I craft user-friendly interfaces using **shadcn/ui**, **Tailwind CSS**, and **Pr
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BerkCertel&theme=tokyo-night&hide_border=false" width="100%" alt="activity graph" />
 </div>
 
+<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=BerkCertel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/> 
+
+---
+[![](https://komarev.com/ghpvc/?username=BerkCertel&icon=0&color=0)](https://visitcount.itsvg.in)
