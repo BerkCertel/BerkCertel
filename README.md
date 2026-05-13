@@ -127,7 +127,7 @@ I craft user-friendly interfaces using **shadcn/ui**, **Tailwind CSS**, and **Pr
 </div>
 
 <br/>
-[![](https://github-readme-stats.shion.dev/api/top-langs/?username=BerkCertel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=BerkCertel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -135,9 +135,3 @@ I craft user-friendly interfaces using **shadcn/ui**, **Tailwind CSS**, and **Pr
 
 
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/> 
-
----
-[![](https://komarev.com/ghpvc/?username=BerkCertel&icon=0&color=0)](https://visitcount.itsvg.in)
