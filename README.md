@@ -72,7 +72,7 @@ I craft user-friendly interfaces using **shadcn/ui**, **Tailwind CSS**, and **Pr
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NativeWind](https://img.shields.io/badge/nativewind-React_Native_Tailwind-38B2AC?style=for-the-badge)
+![NativeWind](https://img.shields.io/badge/nativewind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 ### ⚙️ Backend
